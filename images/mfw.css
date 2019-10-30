@@ -1,0 +1,93 @@
+p {
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+  a:visited {
+    color: white;
+  }
+  a:hover {
+    color: rgb(238, 145, 215);
+  }
+  a:active {
+    color: white;
+  }
+body {
+    background-image:url("./images/background.PNG");
+    padding: 20px;
+}
+.aboutme {
+    float: right;
+    width: 40%;
+    padding-right: 20px;
+    background-image:url("./images/background.PNG");
+    text-align: center;
+    border: solid;
+    border-color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin: 20px 70px;
+    color: white;
+}
+
+.subject {
+    float: center;
+    color: white;
+    background-image:url("./images/background.PNG");
+    font-family: 'Times New Roman', Times, serif;
+    margin: 40px -60px;
+    border: solid;
+    font-size: 40px;
+    text-align: center;
+    box-shadow: 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.center {
+    list-style-type: none;
+    text-align: center;
+    margin: 20;
+    padding: 0;
+}
+
+.leftcolom {
+    float: left;
+    width: 45%;
+    padding-right: 20px;
+    background-image:url("./images/background.PNG");
+    text-align: center;
+    border: solid;
+    border-color: white;
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin: 20px 0px;
+}
+
+.centerimage {
+    float: center;
+    padding-top: 20px;
+    background-image:url("./images/background.PNG");
+    text-align: center;
+    border: solid;
+    border-color: white;
+    box-shadow:0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+a {
+    margin: 0px 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.headtitle {
+    float: center;
+    color: white;
+    background-image:url("./images/background.PNG");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 80px;
+    border: solid;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
